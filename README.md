@@ -54,10 +54,7 @@ by AutoLink to differentiate them from other links found on the site.
 
 # Support
 
-Please submit bug reports to our bug tracking system:
-
-* Via the web: https://endevver.lighthouseapp.com/projects/47575-autolink/tickets
-* Via email: ticket+endevver.47575-s6ytjtqz@lighthouseapp.com
+You can file bug reports in Github's [Issues](https://github.com/endevver/mt-plugin-autolink/issues) tool.
 
 # License
 
